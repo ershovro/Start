@@ -1,0 +1,1 @@
+const sayHi = (msg = 'hi') => alert(msg);
